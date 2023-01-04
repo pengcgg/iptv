@@ -41,6 +41,18 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="4K频道",4K超高清电影
 http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 ,黑莓电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 ,黑莓电影高清
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1 ,黑莓电竞(1920p)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 ,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿 8M
@@ -51,6 +63,10 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://39.134.115.163:8080/TVOD/88888910/224/3221225721/index.m3u8
+#EXTINF:-1 ,炫动卡通
+http://117.169.121.162:6610/PLTV/88888910/224/3221225720/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="其他",星光影院 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 ,VIUS
@@ -59,6 +75,8 @@ http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 ,斗鱼粤语电影
+http://epg.112114.xyz/douyu/1226741
 #EXTINF:-1 ,斗鱼直播8
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 ,斗鱼直播9
@@ -113,3 +131,58 @@ https://epg.112114.xyz/huya/11352937
 https://epg.112114.xyz/huya/11352973
 #EXTINF:-1 ,311-虎牙直播
 https://epg.112114.xyz/huya/11279247
+#EXTINF:-1 ,埋堆堆1
+http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+#EXTINF:-1 ,埋堆堆-西游
+http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+#EXTINF:-1 ,埋堆堆TVB3
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+#genre# ,专场频道
+#EXTINF:-1 ,沈腾
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1 ,周星驰-粤语
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+#EXTINF:-1 ,成龙
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1 ,动作大片
+http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+#EXTINF:-1 ,古墓系列
+http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+#EXTINF:-1 ,古装武侠
+http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+#EXTINF:-1 ,黑帮系列
+http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+#EXTINF:-1 ,洪金宝
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1 ,黄渤
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1 ,警匪系列
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1 ,李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 ,林正英
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1 ,刘德华
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1 ,刘家辉
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1 ,赛车系列
+http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+#EXTINF:-1 ,吴孟达
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1 ,午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 ,喜剧系列
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1 ,香港女神系列
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+#EXTINF:-1 ,玄幻系列
+http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+#EXTINF:-1 ,咏春系列
+http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+#EXTINF:-1 ,甄子丹
+http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+#EXTINF:-1 ,周润发
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1 ,爱情公寓
+http://epg.112114.xyz/douyu/6863367
