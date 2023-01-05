@@ -93,8 +93,6 @@ http://epg.112114.xyz/douyu/218859
 http://epg.112114.xyz/douyu/413573
 #EXTINF:-1 ,斗鱼直播19
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 ,斗鱼直播20
-http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 ,斗鱼直播23
 http://epg.112114.xyz/douyu/252802
 #EXTINF:-1 ,斗鱼直播24
@@ -105,26 +103,18 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 ,斗鱼直播28
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 ,斗鱼直播35
-http://epg.112114.xyz/douyu/315131
 #EXTINF:-1 ,斗鱼直播44
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 ,斗鱼直播46
 http://epg.112114.xyz/douyu/1504768
 #EXTINF:-1 ,斗鱼直播54
 http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 ,斗鱼直播58
-http://epg.112114.xyz/douyu/6003761
 #EXTINF:-1 ,7-虎牙直播
 https://epg.112114.xyz/huya/11342412
 #EXTINF:-1 ,10-虎牙直播
 https://epg.112114.xyz/huya/11342421
 #EXTINF:-1 ,20-虎牙直播
 https://epg.112114.xyz/huya/11601968
-#EXTINF:-1 ,24-虎牙直播
-https://epg.112114.xyz/huya/11352875
-#EXTINF:-1 ,102-虎牙直播
-https://epg.112114.xyz/huya/25129062
 #EXTINF:-1 ,186-虎牙直播
 https://epg.112114.xyz/huya/11352937
 #EXTINF:-1 ,283-虎牙直播
@@ -186,3 +176,17 @@ http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-28
 http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
 #EXTINF:-1 ,爱情公寓
 http://epg.112114.xyz/douyu/6863367
+#EXTINF:-1 ,BesTV华语影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV星光影院
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV全球大片
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV热门剧场
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV谍战剧场
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV青春动漫
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 ,BesTV宝宝动画
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
