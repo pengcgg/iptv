@@ -69,10 +69,16 @@ http://39.134.115.163:8080/TVOD/88888910/224/3221225721/index.m3u8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225720/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="其他",星光影院 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 ,VIUS
+#EXTINF:-1 ,VIUS粤语
 http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 ,VIUTV粤语
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 ,翡翠台粤语
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 ,J2粤语
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 ,凤凰中文粤语
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 ,斗鱼粤语电影
