@@ -1,4 +1,3 @@
-ipv6|频道,#genre#
 人文|地理,#genre#
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
