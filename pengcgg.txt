@@ -1,3 +1,4 @@
+史视頻道,#genre#
 CCTV1 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -16,6 +17,7 @@ CCTV14 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctvsehd8
 CCTV15 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV16 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17 8M,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+未知頻道,#genre#
 凤凰中文-01,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯-01,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 CHC动作电影-01,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
@@ -34,6 +36,7 @@ CNC·中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+新聞頻道,#genre#
 Beach TV,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8?$全网576P
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网576P
@@ -47,6 +50,7 @@ CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网576P
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8
+埋堆堆頻道,#genre#
 【斗气一族】青涩周星星『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
 阿爷厨房第2季『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
 爱·回家-经典TVB爱情故事『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
@@ -75,6 +79,7 @@ CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网576P
 张卫健版西游记-当蜘蛛精看上了齐天大圣我是靓宝『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
 状王宋世杰-第二部-张达明大战黄子华『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
 EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+专辑頻道,#genre#
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
@@ -173,6 +178,7 @@ TVB40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074
 碧血剑8,http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.xs
 中国通史-上下五千年,http://txtest-xp2p.p2p.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.xs
 龙珠超动画一口气看完龙珠超4,http://txtest-xp2p.p2p.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.xs
+斗鱼系列頻道,#genre#
 斗鱼-人观影集,http://epg.112114.xyz/douyu/8987492
 斗鱼-90年代,http://epg.112114.xyz/douyu/10062652
 斗鱼-漫威DC电影,http://epg.112114.xyz/douyu/9803994
@@ -277,3 +283,41 @@ TVB40,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074
 斗鱼-女神金,http://epg.112114.xyz/douyu/747764
 历史 军事,http://epg.112114.xyz/douyu/4870914
 歌曲冲动的惩罚,https://vd2.bdstatic.com/mda-mhbe1bx6wv0kq41v/sc/cae_h264/1628763562960154362/mda-mhbe1bx6wv0kq41v.mp4
+香港頻道,#genre#
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8,http://223.110.17.137/iptv.tvfix.org/hls/fhzw.m3u8,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8,http://113.64.147.6:808/hls/37/index.m3u8,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8,http://anren.live/HK/AQtU.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8,http://113.64.147.6:808/hls/36/index.m3u8,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8,http://anren.live/HK/AQtQ.m3u8
+天映经典,http://iptv.tvfix.org/hls/tyjd.m3u8
+无线财经,http://iptv.tvfix.org/hls/finance.m3u8,http://radius.8866.org:880/hls/83/index.m3u8
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8,http://radius.8866.org:880/hls/82/index.m3u8
+亚洲旅游台,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8,http://iptv.tvfix.org/hls/pearl2.m3u8,http://iptv.tvfix.org/hls/financenhk.m3u8,http://radius.8866.org:880/hls/84/index.m3u8,http://113.64.147.183:808/hls/37/index.m3u8
+星卫电影,http://data.3g.yy.com/live/hls/29900720/29900720
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+美亚电影,http://iptv.tvfix.org/hls/mydy.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8,http://radius.8866.org:880/hls/80/index.m3u8,http://113.64.147.183:808/hls/36/index.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳门体育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+澳门信息,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+澳门综艺,http://61.244.22.4/ch6/hd_ch6.live/master.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳门葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8,http://61.244.22.4/ch2/ch2.live/index.m3u8,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
+澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
+澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8RHK31,http://iptv.tvfix.org/hls/rthk31.m3u8,http://radius.8866.org:880/hls/89/index.m3u8
+RHK32,http://iptv.tvfix.org/hls/rthk32.m3u8,http://radius.8866.org:880/hls/90/index.m3u8
+RHK33,http://radius.8866.org:880/hls/91/index.m3u8
+TBVJ2,http://iptv.tvfix.org/hls/j2.m3u8,http://iptv.tvfix.org/hls/j22.m3u8
+TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8,http://iptv.tvfix.org/hls/tvbxh.m3u8ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8,http://radius.8866.org:880/hls/86/index.m3u8ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8,http://radius.8866.org:880/hls/85/index.m3u8
