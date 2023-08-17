@@ -11,3 +11,5 @@
 # EPG源http://epg.51zmt.top:8000/e.xml # http://epg.51zmt.top:8000/cc.xml # http://epg.51zmt.top:8000/difang.xml
 
 # EPG源https://epg.112114.xyz/pp.xml
+
+# 视频MTV16万首歌曲https://raw.githubusercontent.com/pengcgg/iptv/main/MTV1.txt.bak
